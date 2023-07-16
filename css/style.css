@@ -1,0 +1,24 @@
+.container {
+    width: 1220px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+.title {
+    text-align: center;
+}
+.box {
+    width: 386px;
+    height: 383px;
+    background-color: blue;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+.box {
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
